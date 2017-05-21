@@ -8,6 +8,26 @@ Código Hexadecimal gris footer: #3B3B3B
 	box-sizing: border-box;
 	font-family: "Raleway";
 	font-size: 16px;
+	color: white;
+}
+input {
+	display: block;
+	margin: 0 auto; 
+	width: 50%;
+	height: 25px;
+	font-size: 9px;
+	color: #8EC641;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	-moz-border-radius: 5px; /* Firefox */ 
+    -webkit-border-radius: 5px; /* Safari y Chrome */
+}
+h1 {
+	font-size: 30px;
+	margin-bottom: 20px;
+}
+select {
+	color: black;
 }
 /* Sección Bienvenida */
 #bienvenida {
